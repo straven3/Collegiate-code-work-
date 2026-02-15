@@ -17,7 +17,7 @@
                   !   !
                   !
 
-This is a collection of source code that was written for the class Embedded Control (ENGR 2350) at Rensselaer Polytechnic Institute.
+This is a collection of source code that was written for my classes at Rensselaer Polytechnic Institute.
 
 Most of this code was written by me. All code that labeled as being an activity was entirely written by me as activity assignments were individual.
 Assignments labeled as Labs were co-written by my parter and I. You can tell that AI was only used for debugging purposes due to the plethora of typos in the comments.
