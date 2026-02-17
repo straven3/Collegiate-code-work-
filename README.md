@@ -20,8 +20,7 @@
 
 This is a collection of source code that was written for the the various classes I took at Rensselaer Polytechnic Institute.
 
-Most of this code was written by me. All code that labeled as being an activity was entirely written by me as activity assignments were individual.
-You can tell that AI was only used for debugging purposes due to the plethora of typos in the comments.
+Most of this code was written by me.
 The code is not you would call professional grade. There are functions and variables that never get called due to copying old code. There are silly Band-aid solutions to counter problems in
 previous sections of the program. Random Print messages in the most random of locations to check for certain behavior. I promise that I can write better code than what is shown. We were not 
 graded on having clean code, just code that worked. 
